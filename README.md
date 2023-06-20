@@ -38,14 +38,10 @@ The objective of this assignment is to perform predictive analytics using Suppor
 - Seaborn
 
 ## Conclusion
-In this assignment, we utilized Python and various libraries to perform predictive analytics on the dataset "FIT1043-Essay-Features.csv". Our objective was to predict students' essay scores based on their essay features. We successfully implemented Support Vector Machine/Regression models and followed a series of steps including train-test split, feature engineering, normalization, model fitting, and evaluation.
+Overall, this assignment provided me with a clear understanding of how predictive analytics works and offered a great experience in data visualization. I utilized Support Vector Regression (SVR) as the model for prediction. One of the main challenges I encountered was determining the most effective features for prediction. The selection of feature columns significantly impacts the model's performance, making it crucial to choose the right essay features to enhance the model.
 
-Through our analysis, we obtained valuable insights into the relationships between essay features and scores. The predictive models demonstrated satisfactory performance, as indicated by accuracy, quadratic weighted kappa, and the confusion matrix. The model was then used to predict essay scores for another dataset and submitted the results to Kaggle.
+I also realized the importance of the confusion matrix and classification report, which allowed me to visualize the model's performance in a detailed manner. These tools provided valuable insights into the model's accuracy and effectiveness. Throughout this assignment, I gained a better understanding of various concepts, such as supervised learning, labeled data, training and testing datasets, binary and multi-class classification, as well as Support Vector Machine/Regression (SVM/SVR) and their respective kernels.
 
-Overall, this assignment provided hands-on experience with predictive analytics techniques and demonstrated the application of Python and relevant libraries in data analysis and machine learning. By understanding the factors that influence essay scores, we can gain deeper insights into the evaluation process and potentially contribute to improving educational assessments.
+Additionally, this assignment provided me with an opportunity to participate in a Kaggle competition, further enhancing my practical experience in predictive analytics.
 
-We employed various libraries such as Numpy, Pandas, Matplotlib, Scikit-learn, and Seaborn, which facilitated data manipulation, visualization, and model implementation. These tools proved to be instrumental in achieving our analysis goals.
-
-Through this project, we enhanced our skills in data wrangling, feature engineering, model selection, and evaluation. We also gained a better understanding of the importance of data exploration, preprocessing, and choosing appropriate evaluation metrics. This assignment provided a valuable opportunity to apply theoretical knowledge to real-world data and contribute to the field of predictive analytics.
-
-By completing this assignment, we have gained a solid foundation in predictive analytics and are well-equipped to tackle similar projects in the future.
+In conclusion, this assignment not only improved my knowledge and skills in predictive analytics, but it also allowed me to apply these concepts in a real-world scenario, solidifying my understanding of the subject matter.
