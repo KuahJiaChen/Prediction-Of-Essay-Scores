@@ -1,5 +1,7 @@
 # Prediction Of Essay Scores
 
+Author: Kuah Jia Chen
+
 ## About
 The objective of this assignment is to perform predictive analytics using Support Vector Machine/Regression in Python's Jupyter Notebook environment. The dataset used for this assignment is "FIT1043-Essay-Features.csv". The assignment aims to predict students' essay scores based on their essay features. The process includes a train-test split, feature engineering, normalization, model fitting, and evaluation using accuracy, quadratic weighted kappa, and a confusion matrix. Additionally, the model will be used to predict essay scores for another dataset and submit the results to Kaggle.
 
